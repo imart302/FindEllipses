@@ -6,3 +6,7 @@ ideal to calculate the Homography of a plane.
 ## Requeriments:
   - OpenCV
   - Numpy
+
+
+## Result:
+  ![Ordered pattern of ellipses](output.png)
